@@ -1,0 +1,22 @@
+body {
+    background-color: #efeee7;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: #333333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    
+}
+
+/* .centeredText {
+    text-align: center;
+} */
+
+#bio-image {
+    max-width: 200px;
+    max-height: 200px;
+    display: block;
+    margin: 0 auto;
+}
